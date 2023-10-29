@@ -1,1 +1,1 @@
-This is a photo blog or # photsite created in (HTML/CSS). 
+This is a photo blog page or as I call it # photsite created in (HTML/CSS). 
